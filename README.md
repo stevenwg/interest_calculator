@@ -1,6 +1,6 @@
 # Interest Calculator
 
-It is a calculator for compound interest
+It is a compound interest calculator build with tkinter.
 
 - Compound Interest
 - Simple interest
